@@ -15,4 +15,4 @@ Este es mi portafolio digital, desarrollado como parte de una asignación univer
 - 📁 Repositorio GitHub: [https://github.com/tu_usuario/portafolio-harvin](https://github.com/tu_usuario/portafolio-harvin)
 
 ## Autor
-Harvin Samir Berroa Celesten - Matrícula: 2021123456
+Harvin Samir Berroa Celesten - Matrícula: 23-SISN-2-050
